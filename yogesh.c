@@ -23,9 +23,9 @@ void clg::slg()
     ofstream ofs("student.txt",ios::app);
     clrscr();
     cout<<"\t\t===========ADD NEW STUDENT DETAIL=========";
-    cout<<"\nEnter Student's Regestration no.:";
+    cout<<"\nEnter Student's Registration no.:";
     cin>>rgno;
-    cout<<"\nEnter Student's Regestration no.:";
+    cout<<"\nEnter Student's Registration no.:";
     gets(sn);
     cout<<"\nEnter Father's Name:";
     gets(fn);
